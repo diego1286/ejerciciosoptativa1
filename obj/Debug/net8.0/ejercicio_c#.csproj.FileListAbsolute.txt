@@ -1,0 +1,14 @@
+/Users/das/Desktop/ejercicio_c#/bin/Debug/net8.0/ejercicio_c#
+/Users/das/Desktop/ejercicio_c#/bin/Debug/net8.0/ejercicio_c#.deps.json
+/Users/das/Desktop/ejercicio_c#/bin/Debug/net8.0/ejercicio_c#.runtimeconfig.json
+/Users/das/Desktop/ejercicio_c#/bin/Debug/net8.0/ejercicio_c#.dll
+/Users/das/Desktop/ejercicio_c#/bin/Debug/net8.0/ejercicio_c#.pdb
+/Users/das/Desktop/ejercicio_c#/obj/Debug/net8.0/ejercicio_c#.GeneratedMSBuildEditorConfig.editorconfig
+/Users/das/Desktop/ejercicio_c#/obj/Debug/net8.0/ejercicio_c#.AssemblyInfoInputs.cache
+/Users/das/Desktop/ejercicio_c#/obj/Debug/net8.0/ejercicio_c#.AssemblyInfo.cs
+/Users/das/Desktop/ejercicio_c#/obj/Debug/net8.0/ejercicio_c#.csproj.CoreCompileInputs.cache
+/Users/das/Desktop/ejercicio_c#/obj/Debug/net8.0/ejercicio_c#.dll
+/Users/das/Desktop/ejercicio_c#/obj/Debug/net8.0/refint/ejercicio_c#.dll
+/Users/das/Desktop/ejercicio_c#/obj/Debug/net8.0/ejercicio_c#.pdb
+/Users/das/Desktop/ejercicio_c#/obj/Debug/net8.0/ejercicio_c#.genruntimeconfig.cache
+/Users/das/Desktop/ejercicio_c#/obj/Debug/net8.0/ref/ejercicio_c#.dll
